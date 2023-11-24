@@ -1,6 +1,6 @@
 {
 
    name = subha
-   address = kolkata
+   gender = male
 
 }
