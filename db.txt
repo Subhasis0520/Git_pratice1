@@ -2,6 +2,5 @@
 
    name = subha
    address = kolkata
-   gender = male 
-   ph = 8597489154
+
 }
